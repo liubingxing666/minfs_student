@@ -1,0 +1,7 @@
+server:
+  port: 9000
+az:
+  rack: rack1
+  zone: zone1
+zookeeper:
+  addr: 127.0.0.1:2181
